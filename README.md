@@ -109,6 +109,7 @@ If the lighting changes or you want to reset the background, click the "Recaptur
 Click "Off Camera" to stop the video feed.
 
 File Structure
+```
 .
 ├── app.py              # Main Flask application, handles all backend logic and video processing.
 ├── static/
@@ -116,7 +117,7 @@ File Structure
 │   └── script.js       # JavaScript for frontend interactivity and API calls.
 └── templates/
     └── index.html      # The main HTML file for the user interface.
-
+```
 
 
 
